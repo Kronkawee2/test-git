@@ -7,3 +7,6 @@ test git second time na
 
 ## Subsection A.2
 >when i want to lay on bed right now!!!!
+
+## Subsection A.3 
+to day i learn git branch
