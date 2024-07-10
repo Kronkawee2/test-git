@@ -1,12 +1,13 @@
 # test-git
 test git second time na
+ 
+## what is the git ??
+git is tool for easy team work , so why?? ,cause git can push code on github for work next time and can clone code on window.
 
-# Section A
-## Subsection A.1
-> Hello world!
+## what is git branch ??
 
-## Subsection A.2
->when i want to lay on bed right now!!!!
+take it easy to team to work when you work is not finished yet.
 
-## Subsection A.3 
-to day i learn git branch
+## How to delete
+git branch -d (name branch) #ลบ branch (name branch) ออกจากเครื่อง
+git push origin :(name branch) #ลบ branch (name branch) ออกจาก Server
